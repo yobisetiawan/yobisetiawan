@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yobisetiawan
 - 👀 I’m interested in web and mobile apps
-- 🌱 I’m currently learning flutter and adonisjs
+- 🌱 I’m currently learning flutter and golang
 - I Am Available For Freelance Work
 - 📫 How to reach me mail yobi.studio@gmail.com
 
